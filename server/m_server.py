@@ -7,7 +7,6 @@
 ## Finally, it stores the public keys used for End to End encryption.
 ## Uses a json api to perform actions
 ## Logged messages are indecipherable to all except the communicating parties
-## Can be used over the internet, just change hosts from local types to public
 ##
 ## Author: Shimpano Mutangama
 '''
