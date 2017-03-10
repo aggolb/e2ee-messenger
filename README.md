@@ -1,5 +1,5 @@
 # e2ee-messenger
-A simple "End to End Encryption" messaging app with user accounts and file sharing, it's built for LAN but can easily be used over the internet as well.
+A simple "End to End Encryption" messaging app with user accounts and file sharing, it's built for LAN.
 
 #Prepare
 - Download and install pycrypto
